@@ -1,0 +1,2 @@
+# BazyDanychProjekt
+Projekt Zaliczeniowy
