@@ -32,7 +32,7 @@ Krok 1 – pobranie projektu
 1. Sklonowaæ repozytorium z GitHub:
 git clone https://github.com/NorbertSychta/BazyDanychProjekt
 lub pobraæ jako ZIP i rozpakowaæ.
-2. Otworzyæ plik Projekt.sln w Visual Studio.
+2. Otworzyæ plik Projekt.sln (albo alternatywnie Projekt.csproj) w Visual Studio.
 
 
 Krok 2 – konfiguracja bazy danych
